@@ -14,7 +14,7 @@ Mixed Messages is a message generator program. Every time a user runs a program,
 
 ## Launch
 
-[Link] {}
+[Link] {https://julianena.github.io/Message-Generator/}
 
 To run this program click the "Go surf " button and a random surf message will show.
 
